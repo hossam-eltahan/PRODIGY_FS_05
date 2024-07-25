@@ -3,7 +3,6 @@ For a social media platform, your `README.md` file should provide a comprehensiv
 
 ### **README.md Template for a Social Media Platform**
 
-```markdown
 # Social Media Platform
 
 ## Overview
@@ -46,7 +45,7 @@ The Social Media Platform is a web application that allows users to create profi
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
-   ```
+
 
 2. **Set Up the Database**
 
